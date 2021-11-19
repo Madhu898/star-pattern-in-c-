@@ -1,12 +1,16 @@
-/*
-               input  =  5  
-               output = 
-                          * * * * * 
-                           * * * *  
-                            * * *   
-                             * *    
-                              *
-*/
+/*                input 1  =    9
+                   output 1 =   * * * * * * * * * 
+                                 * * * * * * * *  
+                                  * * * * * * *   
+                                   * * * * * *    
+                                    * * * * *
+                                     * * * *
+                                      * * *
+                                       * *
+                                        *                 
+                                                             
+                                                           
+  */
 
 #include<bits/stdc++.h>
 using namespace std;
